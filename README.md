@@ -1,4 +1,4 @@
-# Strona internetowa wypożyczalni filmów wideo Mutuari
+# Strona internetowa wypożyczalni filmów wideo - Mutuari
 #
 #Link do strony:
 # http://v-ie.uek.krakow.pl/~s142682
