@@ -4,6 +4,7 @@
 #System posiada jednego zdefiniowanego użytkownika:
 #Login:grabowski Hasło:142682
 
+
 #Serwer bazy danych - sbazy.uek.krakow.pl
 #Nazwa użytkownika: s142682
 #Hasło: W4q5ThDX
